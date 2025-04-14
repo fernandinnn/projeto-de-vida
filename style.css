@@ -83,4 +83,6 @@ body {
     background-color: var (--botao-ativo);
     border-bottom: 4px solid var (--verde)
 }
-.aba-con
+.aba-conteúdo.ativo{
+    display:block;
+}
